@@ -26,8 +26,8 @@ DiaPredictor is a comprehensive web application—originally developed as a univ
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Installation Steps](#installation-steps)
-- [Data Overview](#data-overview)
 - [Repository Visualization](#repository-visualization)
+- [Data Overview](#data-overview)
 - [Chatbot Implementation with Rasa and Streamlit](#chatbot-implementation-with-rasa-and-streamlit)
 
 ---
@@ -111,8 +111,18 @@ The system is implemented using:
 
 ---
 
+## Repository Visualization
+
+<p align="center">
+  <img src="./diagram.svg" alt="Repository Visualization" width="800"/>
+</p>
+
+---
+
 <details>
   <summary><strong>Data Overview</strong></summary>
+
+## Data Overview
 
 ### Original Dataset
 
@@ -154,14 +164,10 @@ Initial data visualization revealed the following:
 
 ---
 
-<p align="center">
-  <img src="./diagram.svg" alt="Repository Visualization" width="800"/>
-</p>
-
----
-
 <details>
   <summary><strong>Chatbot Implementation with Rasa and Streamlit</strong></summary>
+
+## Chatbot Implementation with Rasa and Streamlit
 
 ### Chatbot Interface (Streamlit + Rasa)
 
