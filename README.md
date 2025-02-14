@@ -29,6 +29,7 @@ DiaPredictor is a comprehensive web application—originally developed as a univ
 - [Repository Visualization](#repository-visualization)
 - [Data Overview](#data-overview)
 - [Chatbot Implementation with Rasa and Streamlit](#chatbot-implementation-with-rasa-and-streamlit)
+- [License](#license)
 
 ---
 
@@ -277,3 +278,19 @@ Initial data visualization revealed the following:
 > **Diapredictor is not a substitute for professional medical advice, diagnosis, or treatment.**  
 > The diabetes risk assessments and recommendations are for **educational and research** purposes only. Always seek the advice of qualified healthcare professionals for any medical concerns.  
 > Use of this application is entirely at your own risk, and the developers assume **no liability** for any actions taken based on its output.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For inquiries, feedback, or suggestions:
+- **LinkedIn**: [in/fares-elbermawy](https://www.linkedin.com/in/fares-elbermawy/)
+
+We welcome contributions! Feel free to open a pull request or start a discussion in our GitHub repository.
